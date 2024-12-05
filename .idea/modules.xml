@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+<<<<<<< HEAD
+      <module fileurl="file://$PROJECT_DIR$/ChessGame.iml" filepath="$PROJECT_DIR$/ChessGame.iml" />
+=======
+      <module fileurl="file://$PROJECT_DIR$/Local_Chess.iml" filepath="$PROJECT_DIR$/Local_Chess.iml" />
+>>>>>>> f257a53 ("Initial Commit @Taj Created The Project with base: Board, BoardUtils, Move, Tile Classes, and Bishop, Knight Piece Classes. @Khalid Added Queen and Rook Piece Classes")
+    </modules>
+  </component>
+</project>
